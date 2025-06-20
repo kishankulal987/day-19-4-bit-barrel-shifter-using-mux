@@ -4,6 +4,11 @@
 
 In this project, I implemented a 4-bit barrel shifter in Verilog using structural modeling. My goal was to create a circuit that shifts a 4-bit input either left or right by a specified amount (0 to 3 bits), controlled by a direction signal and a 2-bit shift amount. For example, with input 0110, a left shift by 1 (direction=1, shift_bit=01) produces 1100, while a right shift by 1 (direction=0, shift_bit=01) produces 0011. I used 4-to-1 and 2-to-1 multiplexers to select the appropriate shifted bits and wrote a testbench to verify the functionality with specific input cases. I confirmed the design works as expected through simulation.
 
+## circuit 
+
+![Uploading images.png…]()
+
+
 Module: mux4X1
 
 
