@@ -6,7 +6,7 @@ In this project, I implemented a 4-bit barrel shifter in Verilog using structura
 
 ## circuit 
 
-![Uploading images.png…]()
+![9i4NF](https://github.com/user-attachments/assets/d7e5b5c1-9fb5-499a-a418-7dd842942e91)
 
 
 Module: mux4X1
